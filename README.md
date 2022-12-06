@@ -1,6 +1,6 @@
 # Steam Statistics from SteamSpy API
 
-Tableau visualisation: https://public.tableau.com/app/profile/ziming.lin/viz/Steam_16616915480210/Dashboard1
+Tableau visualisation: https://public.tableau.com/app/profile/ziming.lin/viz/Steam_16616915480210/Revenue-Price
 
 ![screenshot](https://raw.githubusercontent.com/Ziming-Lin/steam-stats-steamspy-api/main/steam-viz.gif)
 
